@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "916dfa28-03e5-3644-9e72-d4996acbd37c",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "testing_gitlab",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 2364.5051454566687,
+      "y" : 166.50000000000017
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
